@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Etymology</string>
+    <string name="enter_the_word">Enter the Word...</string>
+    <string name="find">find</string>
+    <string name="etymology_of_the_word">Etymology of the word :</string>
+    <string name="search_history">Search History</string>
+    <string name="previous_search">Previous Search</string>
+    <string name="clear">clear history</string>
+</resources>
